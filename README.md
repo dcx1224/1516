@@ -38,4 +38,4 @@
 最新更新：所有影片都按照更新日期进行排列，确保你能够第一时间观看到最新的资源。
 
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/dcx1224/1516 ）</span>
